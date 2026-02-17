@@ -69,5 +69,15 @@ The best-performing model pipeline is saved as:
 ---
 
 ##  How to Run
+pip install pandas numpy scikit-learn matplotlib joblib
+
+
+## 2. Run the notebook or script:
+CreditScoringModel.ipynb
+
+# 3. Author
+# Farhan Ali  
+# CodeAlpha Machine Learning Internship
+
 
 1. Install dependencies:
